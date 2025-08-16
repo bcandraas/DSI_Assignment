@@ -1,6 +1,6 @@
 # Medical Service Data Analysis (Test Assignment)
 
-This repository contains my solution for the **Data Analysis Test Assignment**, completed using **Python** on **Google Colab**.  
+This repository contains my solution for the **Data Analysis Test Assignment**, completed using **Python** in **Google Colab**.  
 The task involves analyzing and merging multiple datasets related to medical service records, and producing summary tables as requested.
 
 ---
@@ -12,54 +12,53 @@ The task involves analyzing and merging multiple datasets related to medical ser
   - `Data Jasa Medis Detail - Dokter (2022-08 Agustus 1-31).xlsx`
   - `Data Jasa Medis Detail - Perawat (2022-08 Agustus 1-31).xlsx`
 - `results/`
-  - `Rekap_Soal1.xlsx` → Hasil Soal 1  
-  - `RekapDokter_Soal2.xlsx` → Tabel Dokter (Soal 2)  
-  - `RekapPerawat_Soal2.xlsx` → Tabel Perawat (Soal 2)  
-  - `RekapBC_Soal2.xlsx` → Tabel BC (Soal 2)  
-  - `RekapTreatment_Soal3.xlsx` → Hasil Soal 3  
+  - `Rekap_Soal1.xlsx` → Result for Question 1  
+  - `RekapDokter_Soal2.xlsx` → Doctor Summary (Question 2)  
+  - `RekapPerawat_Soal2.xlsx` → Nurse Summary (Question 2)  
+  - `RekapBC_Soal2.xlsx` → BC Summary (Question 2)  
+  - `RekapTreatment_Soal3.xlsx` → Treatment Summary (Question 3)  
+
+---
+
+## 📎 Google Colab Notebook
+🔗 [Open in Colab](https://colab.research.google.com/drive/1ivEAD1ilVEDuaudXRn6Kux2ldJLBtyj1?usp=sharing)
 
 ---
 
 ## 📊 Task Breakdown
 
-### 🔹 Soal 1
-Merge 3 tables into one new table with no duplicate data entries:  
-- Output: `Rekap_Soal1.xlsx`  
+### 🔹 Question 1
+Merge 3 tables into one new table without duplicates.  
+- Output: `Rekap_Soal1.xlsx`
 
-### 🔹 Soal 2
+### 🔹 Question 2
 Create summary tables (recapitulation) as follows:
-- Doctor Table → showing total revenue and total fee per doctor
-- Nurse Table → showing total revenue and total fee per nurse
-- BC Table → showing total revenue and total fee per BC
-Output:
-- `RekapDokter_Soal2.xlsx` → Rekap jasa medis untuk dokter  
-- `RekapPerawat_Soal2.xlsx` → Rekap jasa medis untuk perawat  
-- `RekapBC_Soal2.xlsx` → Rekap jasa medis untuk BC  
+- Doctor Summary → total revenue and fees per doctor  
+- Nurse Summary → total revenue and fees per nurse  
+- BC Summary → total revenue and fees per BC  
+- Outputs:  
+  - `RekapDokter_Soal2.xlsx`  
+  - `RekapPerawat_Soal2.xlsx`  
+  - `RekapBC_Soal2.xlsx`
 
-### 🔹 Soal 3
-Create a summary table (recapitulation) of all treatment names sorted by highest to lowest revenue:
-- Output: `RekapTreatment_Soal3.xlsx`  
+### 🔹 Question 3
+Create a summary table of all treatment names, sorted by revenue (highest to lowest).  
+- Output: `RekapTreatment_Soal3.xlsx`
 
 ---
 
 ## 📊 Expected Output
-
-1. `Rekap_Soal1.xlsx` → Hasil Soal 1  
-2. `RekapDokter_Soal2.xlsx` → Tabel Dokter (Soal 2)  
-3. `RekapPerawat_Soal2.xlsx` → Tabel Perawat (Soal 2)  
-4. `RekapBC_Soal2.xlsx` → Tabel BC (Soal 2)  
-5. `RekapTreatment_Soal3.xlsx` → Hasil Soal 3  
+1. `Rekap_Soal1.xlsx` → Result for Question 1  
+2. `RekapDokter_Soal2.xlsx` → Doctor Summary (Q2)  
+3. `RekapPerawat_Soal2.xlsx` → Nurse Summary (Q2)  
+4. `RekapBC_Soal2.xlsx` → BC Summary (Q2)  
+5. `RekapTreatment_Soal3.xlsx` → Treatment Summary (Q3)  
 
 ---
 
 ## 🛠️ Tools & Libraries
-- Python (Google Colab)
-- Pandas
-
----
-
-## 📎 Links
-Google Colab Notebook: https://colab.research.google.com/drive/1ivEAD1ilVEDuaudXRn6Kux2ldJLBtyj1?usp=sharing
+- Python (Google Colab)  
+- Pandas  
 
 ---
 

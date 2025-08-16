@@ -20,6 +20,28 @@ The task involves analyzing and merging multiple datasets related to medical ser
 
 ---
 
+## 📊 Task Breakdown
+
+### 🔹 Soal 1
+Merge 3 tables into one new table with no duplicate data entries:  
+- Output: `Rekap_Soal1.xlsx`  
+
+### 🔹 Soal 2
+Create summary tables (recapitulation) as follows:
+- Doctor Table → showing total revenue and total fee per doctor
+- Nurse Table → showing total revenue and total fee per nurse
+- BC Table → showing total revenue and total fee per BC
+Output:
+- `RekapDokter_Soal2.xlsx` → Rekap jasa medis untuk dokter  
+- `RekapPerawat_Soal2.xlsx` → Rekap jasa medis untuk perawat  
+- `RekapBC_Soal2.xlsx` → Rekap jasa medis untuk BC  
+
+### 🔹 Soal 3
+Create a summary table (recapitulation) of all treatment names sorted by highest to lowest revenue:
+- Output: `RekapTreatment_Soal3.xlsx`  
+
+---
+
 ## 📊 Expected Output
 
 1. `Rekap_Soal1.xlsx` → Hasil Soal 1  

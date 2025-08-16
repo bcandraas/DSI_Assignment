@@ -1,0 +1,56 @@
+PETUNJUK :
+
+Ada 3 File dalam Folder :
+> Data Jasa Medis Dokter
+> Data Jasa Medis Perawat
+> Data Jasa Medis BC
+
+Dari Ketiga Data ini memberikan informasi PASIEN siapa2 saja yang mereka tangani dan Jumlah FEE (FEE RP) yang mereka peroleh setelah menangani Pasien Tersebut.
+
+Baik Dari Data Tabel Jasa Medis Dokter, Jasa Medis Perawat ataupun Jasa Medis BC BISA SAJA ada 2 Jasa Medis ataupun 3 Jasa Medis yang SECARA BERSAMAAN mengerjakan TREATMENT YANG SAMA KEPADA PASIEN YANG SAMA (berdasarkan Nomor KD Pasien).
+
+SOAL :
+=====
+
+SOAL 1. 
+Gabungkan ketiga Data (Tabel) ini menjadi 1 TABEL YANG BARU yang berisikan Kolom :
+
+> NOMOR KD PASIEN 
+> NAMA PASIEN
+> TANGGAL
+> NAMA DOKTER
+> NAMA PERAWAT
+> NAMA BC
+> NAMA PRODUK
+> HARGA/UNIT
+> QTY
+> FEE DOKTER
+> FEE PERAWAT
+> FEE BC
+
+Pastikan tidak ada Data Ganda
+
+=====================================
+
+SOAL 2. 
+
+REKAPITULASI dalam TABEL 
+> Tabel Dokter dengan Jumlah Total Omset dan Total Fee
+> Tabel Perawat dengan Jumlah Total Omset dan Total Fee
+> Tabel BC dengan Jumlah Total Omset dan Total Fee
+
+=====================================
+
+SOAL 3. 
+
+REKAPITULASI dalam TABEL :
+> Semua Nama Treatment dengan Urutan Jumlah Terbanyak berdasarkan Jumlah Omsetnya
+
+
+
+========================
+HASIL YANG AKAN DIHARAPKAN :
+
+1. SOAL 1 = 1 TABEL TOTAL REKAPITULASI PENJUALAN 
+2. SOAL 2 = 3 TABEL (TABEL DOKTER, TABEL PERAWAT, TABEL BC)
+3. SOAL 3 = 1 TABEL REKAPITLASI TREATMENT

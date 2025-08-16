@@ -11,6 +11,7 @@ The task involves analyzing and merging multiple datasets related to medical ser
   - `Data Jasa Medis Detail - BC (2022-08 Agustus 1-31).xlsx`
   - `Data Jasa Medis Detail - Dokter (2022-08 Agustus 1-31).xlsx`
   - `Data Jasa Medis Detail - Perawat (2022-08 Agustus 1-31).xlsx`
+  - `PETUNJUK DAN SOAL.txt  `
 - `results/`
   - `Rekap_Soal1.xlsx` → Result for Question 1  
   - `RekapDokter_Soal2.xlsx` → Doctor Summary (Question 2)  
